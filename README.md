@@ -9,5 +9,8 @@ The Pitfalls of calculating the potential density for a CTD profile and the mayb
 * **Introduction to Cartopy, Part 1 & 2**  
 How to start with the map-making python library Cartopy. This article is an adaption/rework of an already existing course work
 
+* **Regional maps with Cartopy**  
+Collections of examples on how I create Cartopy maps of various regions. Most likely not the best way to things
+
 * **How to read in Polarstern CTD data from Pangaea**  
 This article is a shortened version of **Potential Density Shenanigans**, concentrating only on the data read-in.
