@@ -25,7 +25,7 @@ Read-in of data from the SAM and ONI climate mode index, Calculation of the SEI 
 * [**Unnecessary artsy ridge maps**](Articles/Unnecessary_artsy_ridge_maps.ipynb)
 
 # ToDo
-* matplotlib styles xkcd, ye olde
-* SymPy example
-* Neutral Surfaces in Python
+- [ ] matplotlib styles xkcd, ye olde
+- [ ] SymPy example
+- [ ] Neutral Surfaces in Python
 
