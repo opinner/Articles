@@ -15,10 +15,10 @@ How to start with the map-making python library Cartopy. This article is an adap
 * [**Introduction to Cartopy, Part 2**](Articles/Introduction_to_Cartopy_Part2.ipynb)  
 How to start with the map-making python library Cartopy. This article is an adaption/rework of an already existing course work
 
-* [**Regional maps with Cartopy**](Articles/CartopyRegionalMaps.ipynb)
+* [**Regional maps with Cartopy**](Articles/CartopyRegionalMaps.ipynb)  
 Collections of examples on how I create Cartopy maps of various regions. Most likely not the best way to do things
 
-* [**Plotting Southern Ocean Climate Modes**](Articles/Plotting_Southern_Ocean_Climate_Modes.ipynb)
+* [**Plotting Southern Ocean Climate Modes**](Articles/Plotting_Southern_Ocean_Climate_Modes.ipynb)  
 Read-in of data from the SAM and ONI climate mode index, Calculation of the SEI index and plot all 3.
   - Basically time series manipulation in pandas
 
