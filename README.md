@@ -20,13 +20,13 @@ Load high-resolution IBSCO bathymetry data of the Southern Ocean and display it 
 Read-in of data from the SAM and ONI climate mode index, Calculation of the SEI index and plot all 3.
   - Basically time series manipulation with the pandas library
 
-* [**Potential Density Shenanigans**](Articles/Potential_Density_Shenanigans.ipynb)
+* [**Potential Density Shenanigans**](Articles/Potential_Density_Shenanigans.ipynb)  
 The Pitfalls of calculating potential density for a CTD profile and the maybe surprisingly strong impact of the reference pressure
 
 * [**How to read in Polarstern CTD data from Pangaea**](Articles/Read_in_Polarstern_CTD_data_from_Pangaea.ipynb)  
 This article is a shortened version of **Potential Density Shenanigans**, concentrating only on the data read-in.
 
-* [**Unnecessary artsy ridge maps**](Articles/Unnecessary_artsy_ridge_maps.ipynb)
+* [**Unnecessary artsy ridge maps**](Articles/Unnecessary_artsy_ridge_maps.ipynb)  
   Scientifically useless, but beautiful visualizations of topography
 
 # ToDo
