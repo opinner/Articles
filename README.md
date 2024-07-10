@@ -11,10 +11,11 @@ How to start with the map-making python library Cartopy. This article is an adap
 THis part covers more advanced map-making and is still under construction
 
 * [**Regional maps with Cartopy**](Articles/CartopyRegionalMaps.ipynb)  
-Collections of examples of ready-made Cartopy maps of various regions. 
+Collections of examples of ready-made Cartopy map set ups of various regions. 
 
 * [**IBSCO data in python**](Articles/blob/main/Articles/IBSCO_data_in_Python.ipynb)  
-Load high-resolution IBSCO bathymetry data of the Southern Ocean and display it with python
+Load high-resolution IBSCO bathymetry data of the Southern Ocean and display it with Python
+To highlight the high resolution, the map is shaded to also show small topographic changes.
 
 * [**Southern Ocean Climate Modes**](Articles/Plotting_Southern_Ocean_Climate_Modes.ipynb)  
 Read-in of data from the SAM and ONI climate mode index, Calculation of the SEI index and plot all 3.
