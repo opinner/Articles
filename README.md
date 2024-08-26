@@ -14,7 +14,7 @@ THis part covers more advanced map-making and is still under construction
 Collections of examples of ready-made Cartopy map set ups of various regions. 
 
 * [**IBSCO data in python**](Articles/IBSCO_data_in_Python.ipynb)  
-Load high-resolution IBSCO bathymetry data of the Southern Ocean and display it with Python
+Load high-resolution IBSCO bathymetry data of the Southern Ocean and display it with Python.  
 To highlight the high resolution, the map is shaded to also show small topographic changes.
 
 * [**Southern Ocean Climate Modes**](Articles/Plotting_Southern_Ocean_Climate_Modes.ipynb)  
