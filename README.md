@@ -8,7 +8,7 @@ This is the start of a collection of various write-ups and short articles.
 How to start with the map-making python library Cartopy. This article is an adaption/rework of an already existing course
 
 * [**Introduction to Cartopy, Part 2**](Articles/Introduction_to_Cartopy_Part2.ipynb)  
-THis part covers more advanced map-making and is still under construction
+This part covers more advanced map-making and is still under construction
 
 * [**Regional maps with Cartopy**](Articles/CartopyRegionalMaps.ipynb)  
 Collections of examples of ready-made Cartopy map set ups of various regions. 
